@@ -19,14 +19,39 @@ You have created a token! Congratulations, now copy it and you can run my progra
 
 **About the script**:
 
-The script was made in **Python**, as requirements _you will need berserk, colorama, init. _
+The script was made in **Python**, as requirements _you will need berserk, colorama, init._
 
 Press **start** and the program will start automatically. Enter the authentication token, and you will have a command menu, documentation will be below. Select the number of the command, and follow the instructions. _Test, use and enjoy!_
 
 **Documentation**:
 
-All comands:
+_All comands:_
 
 
+    kick_member
+    join_team
+    leave_team
+    get_email
+    set_kid_mode
+    upgrade_to_bot
+    offer_draw
+    make_move
+    resign_game
+    post_message
+    get_kid_mode
+    get_members
+    get_all_top_10
+    get_rating_history
+    get_activity
+    get_leaderboard
+    get_tv_channels
 
+**Why Jescontrol?**
 
+**SIMPLE**: The jescoin' script is easy to use, it is no hard to start and control accounts with this
+
+**UNLIMITED**: The jescoin' functions is always free, you can support us, but only if you want. All features is **free**!
+
+**100% FREE AND OPEN**: The jescoin' control is in open source, and you can use it, our API too. 
+
+_We try to made **jescontrol** better, faster. You can support us, if you want, and it will very good for us._
